@@ -11,10 +11,19 @@ Explore a ilha, aprenda golpes novos com os mestres, ajude os sapos da Vila e de
 
 ## Como baixar e jogar
 
-1. Vá em **[Releases](../../releases/latest)** e baixe o **Ribbat2-v1.0.zip**.
-2. Clique com o botão direito no zip e escolha **Extrair tudo**.
+**Jeito fácil (igual o Minecraft Launcher):**
+
+1. Vá em **[Releases](../../releases/latest)** e baixe o **Ribbat-Launcher.exe**.
+2. Abra ele. Se o Windows mostrar "O Windows protegeu o computador", clique em **Mais informações** e depois em **Executar assim mesmo**. (É um jogo feito em casa, não é vírus.)
+3. Escolha seu nick, clique em **BAIXAR** e depois em **JOGAR**. Pronto!
+
+O launcher se instala sozinho, cria um atalho na Área de Trabalho, mostra seu progresso nos 3 saves e avisa quando sair versão nova (botão **ATUALIZAR**).
+
+**Jeito manual (só o zip):**
+
+1. Baixe o **Ribbat2-v1.0.zip** na mesma página.
+2. Clique com o botão direito no zip e escolha **Extrair tudo** (não abra o jogo de dentro do zip!).
 3. Abra a pasta e dê dois cliques em **Ribbat 2.exe**.
    O `Ribbat 2.exe` e o `Ribbat 2.pck` precisam ficar **juntos**, na mesma pasta.
-4. Se o Windows mostrar "O Windows protegeu o computador", clique em **Mais informações** e depois em **Executar assim mesmo**. (É um jogo feito em casa, não é vírus.)
 
 Feito por **Gomes**, com Godot.
